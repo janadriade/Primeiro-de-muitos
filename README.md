@@ -1,2 +1,2 @@
 # Primeiro-de-muitos
-Primeiro desafio DIO
+Lista de compras
